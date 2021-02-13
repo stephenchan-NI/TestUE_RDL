@@ -1,0 +1,2 @@
+DUT_Serial,PARAMS.DPD_Enabled,PARAMS.Test_Config,PARAMS.WaveformName,PARAMS.Center_Frequency,MEAS.Avg_Input_Power_dBm,MEAS.RMS_Composite_EVM_Percent,MEAS.AMPM_Mean_LinerGain_dB,MEAS.AMPM_Mean_RMS_EVM,MEAS.ACP_CC0_Absolute_Power_dBm,MEAS.ACP_Offset0_Upper_Absolute_Power_dBm,MEAS.ACP_Offset0_Upper_Relative_Power_dB,MEAS.ACP_Offset0_Lower_Absolute_Power_dBm,MEAS.ACP_Offset0_Lower_Relative_Power_dB
+"",False,"EVM,ACP",sig1,3351000000,-20,-42.87523703528,-999,-999,-28.15191650391,-71.8034362793,-43.65151977539,-72.95626831055,-44.80435180664
